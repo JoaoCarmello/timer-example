@@ -1,38 +1,10 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
-
 
 ## 💻 Projeto
 
-02-ignite-timer
+ignite-timer
 
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+<img width="1278" height="1039" alt="image" src="https://github.com/user-attachments/assets/619241ce-54ff-400b-a6a8-b03da25021b9" />
 
 ---
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
-
+<img width="1287" height="1067" alt="image" src="https://github.com/user-attachments/assets/6ec33477-29a8-4b5e-97c2-3173b94d1395" />
